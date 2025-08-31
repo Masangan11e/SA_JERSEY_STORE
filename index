@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SA Jerseys Shop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>SA Jerseys Shop</h1>
+    
+    <div class="product">
+        <img src="jersey1.jpg" alt="Football Jersey">
+        <h2>Football Jersey</h2>
+        <p>R800.00</p>
+        <a class="buy-btn" href="https://www.payfast.co.za/eng/process?...">Buy Now</a>
+    </div>
+</body>
+</html>
